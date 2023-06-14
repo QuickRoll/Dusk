@@ -1,6 +1,6 @@
 ---
 created: 2023-06-14T14:55:04+02:00
-modified: 2023-06-14T16:22:36+02:00
+modified: 2023-06-14T16:46:53+02:00
 ---
 
 # Outline of Thoughts
@@ -20,3 +20,4 @@ modified: 2023-06-14T16:22:36+02:00
 - [ ] recreation unmarkes actions
 - [ ] bloodied and shocked -1d
 - [ ] actions additions: pushing, assisting
+- [ ] shocked shouldn't be endlessly stackable though, otherwise I could have used the old stuff
