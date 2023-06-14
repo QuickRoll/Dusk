@@ -1,6 +1,6 @@
 ---
 created: 2023-06-14T14:55:04+02:00
-modified: 2023-06-14T15:41:01+02:00
+modified: 2023-06-14T16:14:06+02:00
 ---
 
 # Outline of Thoughts
@@ -13,3 +13,10 @@ modified: 2023-06-14T15:41:01+02:00
 - [ ] if character doesn't have appropriate action for the roll then 0d, using it to push or react marks another action of the players choosing
 - [ ] if all actions marked then the character can't push, assist, react etc.
 - [ ] no money, only trade
+- [ ] inventory based on armor
+- [ ] armor has defense uses before needing to be repaired
+- [ ] sleep/rest removes all shocked stacks
+- [ ] healing removes bloodied
+- [ ] recreation unmarkes actions
+- [ ] bloodied and shocked -1d
+- [ ] actions additions: pushing, assisting
