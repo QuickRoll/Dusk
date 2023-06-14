@@ -1,6 +1,6 @@
 ---
 created: 2023-06-14T14:55:04+02:00
-modified: 2023-06-14T16:17:03+02:00
+modified: 2023-06-14T16:18:42+02:00
 ---
 
 # Outline of Thoughts
@@ -20,3 +20,4 @@ modified: 2023-06-14T16:17:03+02:00
 - [ ] recreation unmarkes actions
 - [ ] bloodied and shocked -1d
 - [ ] actions additions: pushing, assisting
+- [ ] having no action unmarked when still needing to mark, character goes unconscious.
