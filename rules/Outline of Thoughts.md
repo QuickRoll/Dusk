@@ -1,6 +1,6 @@
 ---
 created: 2023-06-14T14:55:04+02:00
-modified: 2023-06-14T16:49:44+02:00
+modified: 2023-06-14T16:56:40+02:00
 ---
 
 # Outline of Thoughts
@@ -21,4 +21,4 @@ modified: 2023-06-14T16:49:44+02:00
 - [ ] bloodied and shocked -1d
 - [ ] actions additions: pushing, assisting
 - [ ] shocked shouldn't be endlessly stackable though, otherwise I could have used the old stuff
-- [ ]  maybe give limited shock and afterwards start marking actions? No, shock and marks shouldn't intersect. Just give harsher consequences after shock limit is reached
+- [ ]  maybe give limited shock and afterwards start marking actions? No, shock and marks shouldn't intersect. Just give harsher consequences after shock limit is reached. But what if we let it intersect. What about resisting when the consequence is only shock? That would mark 1 action instead of multiple. Making resisting entirely useless.
