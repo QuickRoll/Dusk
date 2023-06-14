@@ -1,6 +1,6 @@
 ---
 created: 2023-06-14T14:55:04+02:00
-modified: 2023-06-14T16:18:42+02:00
+modified: 2023-06-14T16:19:29+02:00
 ---
 
 # Outline of Thoughts
@@ -16,7 +16,7 @@ modified: 2023-06-14T16:18:42+02:00
 - [ ] inventory based on armor
 - [ ] armor has defense uses before needing to be repaired
 - [ ] sleep/rest removes all shocked stacks
-- [ ] healing removes bloodied
+- [ ] healing removes bloodied, but adds 1 shocked
 - [ ] recreation unmarkes actions
 - [ ] bloodied and shocked -1d
 - [ ] actions additions: pushing, assisting
